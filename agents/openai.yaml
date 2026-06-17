@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shuiye UI"
+  short_description: "从任务生成、修改并验证可交互 UI 原型"
+  default_prompt: "使用 $shuiye-ui 分析当前项目任务，设计核心用户路径并生成可在浏览器中验证的交互原型。"
